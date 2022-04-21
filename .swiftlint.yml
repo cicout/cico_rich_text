@@ -1,0 +1,6 @@
+excluded:
+    - Carthage
+
+file_length:
+    warning: 1000
+    error: 1000
